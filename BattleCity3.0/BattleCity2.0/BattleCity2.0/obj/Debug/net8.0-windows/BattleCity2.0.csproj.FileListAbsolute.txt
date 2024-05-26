@@ -1,0 +1,34 @@
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2._0.Form1.resources
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2._0.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.AssemblyInfo.cs
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.exe
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.deps.json
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.runtimeconfig.json
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.dll
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.pdb
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.dll
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\refint\BattleCity2.0.dll
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.pdb
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.genruntimeconfig.cache
+C:\Users\Vitalii\Desktop\BattleCity2.0 – копія\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\ref\BattleCity2.0.dll
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.exe
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.deps.json
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.runtimeconfig.json
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.dll
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\bin\Debug\net8.0-windows\BattleCity2.0.pdb
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2._0.Form1.resources
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2._0.Properties.Resources.resources
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.csproj.GenerateResource.cache
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.AssemblyInfo.cs
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.dll
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\refint\BattleCity2.0.dll
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.pdb
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\BattleCity2.0.genruntimeconfig.cache
+C:\Users\Vitalii\Desktop\ааааааа\BattleCity2.0\BattleCity2.0\obj\Debug\net8.0-windows\ref\BattleCity2.0.dll
